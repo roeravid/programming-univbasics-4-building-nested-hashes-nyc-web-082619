@@ -25,7 +25,7 @@ def monopoly_with_third_tier
     {
       :names =>
       {
-        :shortline => {}.
+        :shortline => {},
         :train2 => {},
         :train3 => {},
         :train4 => {}

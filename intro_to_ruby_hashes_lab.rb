@@ -23,7 +23,13 @@ def monopoly_with_third_tier
   {
     :railroads =>
     {
-      :names => {},
+      :names =>
+      {
+        :shortline => {}.
+        :train2 => {},
+        :train3 => {},
+        :train4 => {}
+      },
       :pieces => 4,
       :rent_in_dollars =>
       {
